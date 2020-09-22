@@ -1,0 +1,7 @@
+print("Hello world", end=' ')
+print("Hello again", end=' ')
+print("I like typing this", end=' ')
+print("This is fun")
+print("I'would much rather you 'not'.")
+print("I 'said' do not touch this")
+print("I # try")

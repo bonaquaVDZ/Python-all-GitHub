@@ -1,0 +1,5 @@
+A. Python is perfect!
+B. Python is a great language!
+C. Welcome to Python!!!
+D. Python is one of the best!
+E. I love python!
